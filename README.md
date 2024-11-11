@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-dahl-eiriksson-yildirim-04074a266/) 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red)](https://tryhackme.com/r/p/propanedreams) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red)](https://tryhackme.com/r/p/propanedreams)
+[![CodeWars](https://img.shields.io/badge/CodeWars-red)](https://www.codewars.com/users/propanedreams) 
 
 
 # 💻 Tech Stack:
