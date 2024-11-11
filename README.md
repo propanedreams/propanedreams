@@ -2,6 +2,7 @@
 👋 Hi! <br>I'm a software developer with a deep passion for continuous learning and exploration in technology. <br>I love expanding my skills and diving into new areas to keep up with the fast-paced tech world. <br>Currently, I'm dedicating my free time to delving into cybersecurity. From vulnerability assessments to ethical hacking techniques, <br>I'm excited to understand how to better secure applications and systems from both a developer and defender perspective.
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-dahl-eiriksson-yildirim-04074a266/) 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red)](https://tryhackme.com/r/p/propanedreams)
