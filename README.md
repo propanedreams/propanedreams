@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi! <br>I'm a software developer with a deep passion for continuous learning and exploration in technology. <br>I love expanding my skills and diving into new areas to keep up with the fast-paced tech world. <br>Currently, I'm dedicating my free time to delving into cybersecurity. From vulnerability assessments to ethical hacking techniques, <br>I'm excited to understand how to better secure applications and systems from both a developer and defender perspective.
+👋 Hi there!
+I'm a software developer driven by a passion for continuous learning and innovation in technology. Staying ahead in the ever-evolving tech landscape is not just a goal—it's a way of life for me. <br>
+
+🌱 I thrive on expanding my skill set and exploring new domains to stay at the cutting edge of the industry. <br>
+
+🔐 Currently, I'm diving deep into the world of cybersecurity. From conducting vulnerability assessments to mastering ethical hacking techniques, I'm excited to strengthen my understanding of securing applications and systems. My aim is to approach security from both a developer’s and defender’s perspective, ensuring robust, reliable solutions. <br>
+
+Let’s connect and explore the limitless possibilities of technology together!
 
 
 
